@@ -1,0 +1,56 @@
+item {
+  id: 1
+  name: 'jeera_rice'
+}
+
+item {
+  id: 2
+  name: 'veg_kadhai'
+}
+
+item {
+  id: 3
+  name: 'masoor_dal'
+}
+
+
+item {
+  id: 4
+  name: 'onion'
+}
+
+
+
+item {
+  id: 5
+  name: 'chapati'
+}
+
+
+item {
+  id: 6
+  name: 'paneer_lababdar'
+}
+
+
+item {
+  id: 7
+  name: 'lemon'
+}
+
+
+item {
+  id: 8
+  name: 'rice'
+}
+
+
+item {
+  id: 9
+  name: 'tomato'
+}
+
+
+
+
+
